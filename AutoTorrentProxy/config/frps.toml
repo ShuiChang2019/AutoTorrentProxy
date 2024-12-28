@@ -1,0 +1,7 @@
+[common]
+bindPort = 7000
+bind_udp_port = 7000
+bind_addr = "0.0.0.0"
+allow_ports = "1001-7001,10001-22500"
+token = "<YOUR_TOKEN_HERE>"
+tls_only = true
